@@ -1,0 +1,39 @@
+/* css 2.0 HD INFORMÁTICA */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	color:#666;
+	font-family: "Century Gothic", Roboto, Arial;	
+	font-size: 0.9em;
+		
+}
+.topo{	
+	float: left;
+	width:100%;
+}
+			.topo-barra{
+				float: left;
+				width:100%;	
+				padding: 1em 0;
+				background: #eee;
+				border-bottom:1px solid #E6E6E6;
+			}
+				.topo p{
+					width:48%;
+					margin: 0 1%; 
+					background: #ccc;
+					float: left;
+				}
+
+						.topo span{
+							color:#01B2FE; 
+							font-weight: bold;
+						}
+
+
+/*{color:#01B2FE;}*/
+
